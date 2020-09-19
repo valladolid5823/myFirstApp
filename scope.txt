@@ -3,8 +3,8 @@ storage and retreival of client records
 reservation
 
 inventory system
-
+reports
 final scope
-
+date: 09/20/2020
 
 Done by: James Valladolid
